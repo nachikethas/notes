@@ -4,10 +4,10 @@ Exercise 1 {#ch8:ex1 .unnumbered}
 See Figure \[fig:ch8Q1a\] and Figure \[fig:ch8Q1b\].
 
 ![Exercise 1
-Tree[]{data-label="fig:ch8Q1a"}](img/ch8Q1a){width="95.00000%"}
+Tree[]{data-label="fig:ch8Q1a"}](../img/ch8Q1a.png){width="95.00000%"}
 
 ![Exercise 1
-Regions[]{data-label="fig:ch8Q1b"}](img/ch8Q1b){width="95.00000%"}
+Regions[]{data-label="fig:ch8Q1b"}](../img/ch8Q1b.png){width="95.00000%"}
 
 Exercise 2 {#ch8:ex2 .unnumbered}
 ----------
@@ -31,16 +31,16 @@ Let $ p = \hat{p}_{m1} $. The expressions are given by
 
 -   $ E = \min\{p, (1-p)\} $
 
-![Exercise 3[]{data-label="fig:ch8Q3"}](img/ch8Q3){width="95.00000%"}
+![Exercise 3[]{data-label="fig:ch8Q3"}](../img/ch8Q3.png){width="95.00000%"}
 
 Exercise 4 {#ch8:ex4 .unnumbered}
 ----------
 
 See Figure \[fig:ch8Q4a\] and Figure \[fig:ch8Q4b\].
 
-![Exercise 4a[]{data-label="fig:ch8Q4a"}](img/ch8Q4a){width="95.00000%"}
+![Exercise 4a[]{data-label="fig:ch8Q4a"}](../img/ch8Q4a.png){width="95.00000%"}
 
-![Exercise 4b[]{data-label="fig:ch8Q4b"}](img/ch8Q4b){width="95.00000%"}
+![Exercise 4b[]{data-label="fig:ch8Q4b"}](../img/ch8Q4b.png){width="95.00000%"}
 
 Exercise 5 {#ch8:ex5 .unnumbered}
 ----------

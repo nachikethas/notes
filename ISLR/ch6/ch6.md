@@ -154,11 +154,11 @@ Moreover, $\lambda \ge 0$.
 
 ![Exercise 6a: The minimum solution is indicated by the vertical line.
 The parameters were $y_1 = 1$ and
-$\lambda = 3$.[]{data-label="fig:ch6e6a"}](img/ch6e6a){width="\textwidth"}
+$\lambda = 3$.[]{data-label="fig:ch6e6a"}](../img/ch6e6a.pdf){width="\textwidth"}
 
 ![Exercise 6b: The minimum solution is indicated by the vertical line.
 The parameters were $y_1 = 1$ and
-$\lambda = 3$.[]{data-label="fig:ch6e6b"}](img/ch6e6b){width="\textwidth"}
+$\lambda = 3$.[]{data-label="fig:ch6e6b"}](../img/ch6e6b.pdf){width="\textwidth"}
 
 Exercise 7 {#ch6:ex7 .unnumbered}
 ----------

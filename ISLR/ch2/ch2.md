@@ -33,7 +33,7 @@ Problem 3 {#ch2:prob3 .unnumbered}
 ---------
 
 ![Error curves as a function of
-flexibility[]{data-label="fig:errorCurves"}](../img/ch2Q3){width="75.00000%"}
+flexibility[]{data-label="fig:errorCurves"}](../img/ch2Q3.png){width="75.00000%"}
 
 1.  See Figure \[fig:errorCurves\].
 

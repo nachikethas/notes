@@ -1,5 +1,3 @@
-All problems are taken from [@jam13]
-
 Exercise 1 {#ch5:ex1 .unnumbered}
 ----------
 
@@ -25,7 +23,7 @@ Exercise 2 {#ch5:pro2 .unnumbered}
 ----------
 
 ![${\left( 1 - \frac{1}{n}\right)}^n$ vs
-$n$[]{data-label="fig:einv"}](img/einv){width="75.00000%"}
+$n$[]{data-label="fig:einv"}](../img/einv.pdf){width="75.00000%"}
 
 1.  The probability that it is the $j$th observation is $\frac{1}{n}$.
     Thus the probability that it is not the $j$th observation is
